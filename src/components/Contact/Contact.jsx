@@ -13,22 +13,10 @@ export const Contact = () => {
         <p>Feel free to reach out!</p>
       </div>
       <ul className={styles.links}>
-        <li className={styles.link}>
-          <img src={email} alt="Email icon" />
-          <a href="mailto:sid1402mishra@gmail.com">sid1402mishra@gmail.com</a>
-        </li>
-        <li className={styles.link}>
-          <img
-            src={linkedin}
-            alt="LinkedIn icon"
-          />
-          <a href="https://www.linkedin.com/in/siddharth-mishra-07/">@siddharth-mishra-07</a>
-        </li>
-        <li className={styles.link}>
-          <img src={github} alt="Github icon" />
-          <a href="https://github.com/iamsid-19">@iamsid-19</a>
-        </li>
+        <li><a href="mailTo:sid1402mishra@gmail.com"><img src={email} alt="" /></a></li>
+        <li><a href="https://www.linkedin.com/in/siddharth-mishra-07/"><img src={linkedin} alt="" /></a></li>
+        <li><a href="https://github.com/iamsid-19"><img src={github} alt="" /></a></li>
       </ul>
     </footer>
   );
-};  
+}
