@@ -22,13 +22,13 @@ export const Contact = () => {
             src={linkedin}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/in/siddharth-mishra-07/">linkedin.com/siddharth-mishra-07</a>
+          <a href="https://www.linkedin.com/in/siddharth-mishra-07/">@siddharth-mishra-07</a>
         </li>
         <li className={styles.link}>
           <img src={github} alt="Github icon" />
-          <a href="https://github.com/iamsid-19">github.com/iamsid-19</a>
+          <a href="https://github.com/iamsid-19">@iamsid-19</a>
         </li>
       </ul>
     </footer>
   );
-};
+};  
