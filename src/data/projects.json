@@ -1,0 +1,27 @@
+
+[
+  {
+    "title": "DeepWork",
+    "imageSrc": "./assets/projects/DeepworkSS.png",
+    "description": "It's a productivity app that I made to make my life easier.",
+    "skills": ["HTML", "CSS", "javaScript"],
+    "demo": "https://deepwork-app.vercel.app/",
+    "source": "https://github.com/iamsid-19/deepwork"
+  },
+  {
+    "title": "React Quiz",
+    "imageSrc": "./assets/projects/QuizSS.png",
+    "description": "Customizable React quiz app with interactive gameplay.",
+    "skills": ["HTML", "CSS", "javaScript", "React"],
+    "demo": "https://react-qz.vercel.app/",
+    "source": "https://github.com/iamsid-19/reactquiz"
+  },
+  {
+    "title": "Product Landing Page",
+    "imageSrc": "./assets/projects/landingSS.png",
+    "description": "Discover headphones: stylish, comfortable, immersive sound.",
+    "skills": ["HTML", "CSS", "javaScript"  ],
+    "demo": "https://productlandingbysid.netlify.app/#",
+    "source": "https://github.com/iamsid-19/ProductLandingPage"
+  }
+]
