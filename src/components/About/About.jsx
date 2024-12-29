@@ -1,8 +1,8 @@
 import React from "react";
-import smLogo from '../../../assets/about/sm.png'
-import cursor from '../../../assets/about/cursorIcon.png'
-import server from '../../../assets/about/serverIcon.png'
-import uilcon from '../../../assets/about/uiIcon.png'
+import smLogo from '../../../public/assets/about/sm.png'
+import cursor from '../../../public/assets/about/cursorIcon.png'
+import server from '../../../public/assets/about/serverIcon.png'
+import uilcon from '../../../public/assets/about/uiIcon.png'
 import styles from "./About.module.css";
 
 
